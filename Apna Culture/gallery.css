@@ -85,86 +85,99 @@ a{
     color: white ;
 }
 
-.rw{
+.row{
     display: inline-flex;
     justify-content: center;
     align-items: center;
+
+
 }
 
-.links{
-    display: flex;
-    justify-content: space-between;
-}
-.box{
-    width: 60px;
-    height: 60px;
+.bx{
+
+    width: 360px;
+    height: 280px;
     margin: 20px;
-    border-radius: 25%;
+    border-radius: 5%;
     padding: 10px;
     background-color: rgba(128, 128, 128, 0.37);
-    border: rgb(0, 0, 0) 2px solid ;
-    font-size: 10px;
+    border: greenyellow 2px solid ;
 
 }
 
 
-#im1{
-    background: url(https://theasifkamal.com/blog/wp-content/uploads/2018/01/image5-8-1009x715.jpg);
+#gl1{
+    background: url(gallery/music.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-#im2{
-    background: url(https://blog.hua.edu/hubfs/Google%20Drive%20Integration/Comparing%20the%20Musical%20Traditions%20of%20India.jpeg);
+#gl2{
+    background: url(gallery/music4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-#im3{
-    background: url(https://www.hercircle.in/hcm/Engage/D/EDC85C2A-6E76-4F78-8157-B8E8A470BF7E.JPG);
+#gl3{
+    background: url(gallery/music3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-
-#im4{
-    background: url(https://www.blueosa.com/wp-content/uploads/2020/01/the-best-top-10-indian-dishes.jpg);
+#gl4{
+    background: url(gallery/food.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-
-#im5{
-    background: url(https://www.holidaymonk.com/wp-content/uploads/2022/04/Holi-Festival-of-Colors.jpg);
+#gl5{
+    background: url(gallery/food2.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-
-#im6{
-    background: url(https://d7hftxdivxxvm.cloudfront.net/?height=630&quality=80&resize_to=fill&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FP-pztuzWtdVsqFvnzrbPNA%252FFabric%2Bof%2BIndia%2Bthumb%2B800.jpg&width=1200);
+#gl6{
+    background: url(gallery/history2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-
-#im7{
-    background: url(https://media.istockphoto.com/id/1201079502/vector/india-seamless-pattern.jpg?s=612x612&w=0&k=20&c=5bn00QiG-JnuJg1gev31qSfAJC9iUiGTM2lmGSwANIc=);
+#gl7{
+    background: url(gallery/food4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-
-#im8{
-    background: url(https://images.news18.com/ibnlive/uploads/2023/09/science-spirituality.jpg);
+#gl8{
+    background: url(gallery/festival.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-
-#im9{
-    background: url(https://i0.wp.com/d3d2ir91ztzaym.cloudfront.net/uploads/2022/05/history-of-ancient-India.png?fit=2500%2C1407&ssl=1);
+#gl9{
+    background: url(gallery/festival2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
-
+#gl10{
+    background: url(gallery/festival3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gl11{
+    background: url(gallery/festival4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gl12{
+    background: url(gallery/festival5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gl13{
+    background: url(gallery/festival6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gl14{
+    background: url(gallery/history.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gl15{
+    background: url(gallery/music3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
