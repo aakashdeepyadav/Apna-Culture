@@ -1,0 +1,183 @@
+body{
+    background-color: #e2eddf;
+    font-family: verdana;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+.nav{
+    display: flex;
+    background-color: #FF671F;
+    justify-content: center;
+    margin: 0;
+}
+
+.inside-nav{
+    color: #fff;
+    margin: 0;
+    padding: 10px;   
+}
+.inside-nav:hover{
+    color: #046A38;
+    background-color: #fff;
+    margin: 0;
+    padding: 10px;   
+    text-decoration: underline;
+    text-decoration-color: #FF671F;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+.white{
+    background-color: #ffffff;
+    width: 100vw;
+    height: 5px;
+}
+.green{
+    background-color: #10b002;
+    width: 100vw;
+    height: 5px;
+
+}
+.poster{
+    width: 100vw;
+    height: 650px;
+    background: #e2eddf;
+    
+}
+
+.infont{
+    margin-left: 200px;
+}
+
+.poster{
+    box-sizing: border-box;
+    display: flex;
+}
+
+.ind{
+    background-color: #2981e738;
+    width: 45vw;
+    height: 500px;
+    border-radius: 6%;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.484) 2px 2px 10px;
+    margin-right: 10vh;
+    margin-top: 20px;
+    border: rgb(255, 255, 255) 6px solid;
+    
+}
+
+.map{
+    margin-left: 20px;
+}
+
+#in{
+    text-align: center;
+    font-size:larger;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: blue;
+    color: white ;
+}
+
+.row{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.bx{
+
+    width: 360px;
+    height: 280px;
+    margin: 20px;
+    border-radius: 5%;
+    padding: 10px;
+    background-color: rgba(128, 128, 128, 0.37);
+    border: greenyellow 2px solid ;
+
+}
+
+
+#gl1{
+    background: url(gallery/music.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gl2{
+    background: url(gallery/music4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gl3{
+    background: url(gallery/music3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gl4{
+    background: url(gallery/food.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gl5{
+    background: url(gallery/food2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gl6{
+    background: url(gallery/history2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gl7{
+    background: url(gallery/food4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gl8{
+    background: url(gallery/festival.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gl9{
+    background: url(gallery/festival2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gl10{
+    background: url(gallery/festival3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gl11{
+    background: url(gallery/festival4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gl12{
+    background: url(gallery/festival5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gl13{
+    background: url(gallery/festival6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gl14{
+    background: url(gallery/history.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gl15{
+    background: url(gallery/music3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
